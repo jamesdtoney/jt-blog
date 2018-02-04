@@ -25,14 +25,15 @@ class Bio extends React.Component {
                         height: rhythm(2),
                     }}
                 />
-                <p>
-                    At the moment, I’ m a senior programmer living and working in Fort Worth.To me, it is more about direction than perfection and consistency is key.Housed here is a random collection of my thoughts. {' '}
+                <small>
+                    At the moment, I’m a senior programmer living and working in Fort Worth. To me, it is more about direction than perfection and consistency is key. Housed here is a random collection of my thoughts. {' '}
                     <a
                         className="highlight"
                         href="https://twitter.com/jamesdtoney"
+                        target="_blank"
                     >I have been dormant as of late but you can follow me on Twitter
             </a>.
-            </p>
+            </small>
             </div>
         )
     }

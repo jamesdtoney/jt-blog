@@ -1,0 +1,12 @@
+---
+title: The Rain
+date: "2017-06-03T22:12:03.284Z"
+---
+
+It's raining here in Texas, again. The rain has been lingering for a week or so now. It's much needed and with our A/C being out last week, I am extra thankful for it.
+
+I think about the things that actually happen because of the rain. My grass is greener, plants are fuller and I get a free car wash. I can sometimes use the rain as an excuse to stay indoors when my wife isn't too persistent about getting out of the house. I can remember when I first really appreciated things like shelter from the rain. During my time as a field artillery cannoneer in the US Marine Corps, I was introduced to a new appreciation for the rain and having shelter from it. We spent many days and nights, literally, in the rain. Days were not so bad since we were mostly up and moving. It wasn't fun but it was just rain. Nights were somewhat different. Thankfully, there was always a dry spot for sleep to be found but the wetness was never far away. The catch was that you had to actually find this dry spot and you may not always have the best options. You basically take what you can get. On the top of a tire of 7-ton truck, under the truck or in the ammo tent (if you were in charge of running ammo) were possibilities but nothing was guaranteed. We didn't pack the issued 2-man tents anymore, too much unnecessary extra gear to lug around.
+
+>Looking back, I realize that even though I was trying to sleep right in the middle of the rain storms, I always found a dry spot. A safe zone where I felt like I could stay dry enough to rest. Even if the space was tight and uncomfortable, it was available to me if I improvised and did a little searching, making the most of it.
+
+When life's storms are raging all around us and the torrential rains show no signs of letting up. When there seems to be no place of rest and shelter from the storm, remember there is always a dry spot to be found. We will no doubt have go to it, but it's there. Once you arrive, don't be surprised if things seem a little uncomfortable, just focus on the fact that you're dry. We must seek God, trusting that He will provide direction and shelter during the storm. Thank God for the dry areas where we can rest when everything around us is soaking wet and miserable.

@@ -24,7 +24,7 @@ class Template extends React.Component {
             fontWeight: 900,
             textTransform: 'uppercase',
           }}
-        >Hello, <span style={{ color: 'hsl(12, 100%, 50%)' }}>My name is James.
+        >Hello, <span style={{ color: 'hsl(120, 60%, 50%)' }}>My name is James.
         I like to build useful things.</span>
           <Link
             style={{
