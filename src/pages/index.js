@@ -47,7 +47,10 @@ class BlogIndex extends React.Component {
             </a>
           )
         })}
-        <p style={{ color: 'black' }} >👋🏾</p>
+        <ul>
+          <li><p> 👋🏾 </p></li>
+          <li><small><a href="mailto:james@jamesdtoney.com">Email</a></small></li>
+        </ul>
       </div>
     )
   }
