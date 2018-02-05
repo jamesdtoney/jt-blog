@@ -3,7 +3,7 @@ module.exports = {
         title: 'James D. Toney',
         author: 'James D. Toney',
         description: 'A random collection of thoughts from James D. Toney',
-        siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+        siteUrl: 'https://blog.jamesdtoney.com/',
     },
     pathPrefix: '/gatsby-starter-blog',
     plugins: [
