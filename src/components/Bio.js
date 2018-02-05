@@ -32,8 +32,8 @@ class Bio extends React.Component {
                         href="https://twitter.com/jamesdtoney"
                         target="_blank"
                     >I have been dormant as of late but you can follow me on Twitter
-            </a>.
-            </small>
+                    </a>.
+                </small>
             </div>
         )
     }
