@@ -28,10 +28,11 @@ class BlogIndex extends React.Component {
             }} href={node.fields.slug}>
             <div key={node.fields.slug}>
               <h3
-                style={{
+                  style={{
                   marginBottom: rhythm(1 / 4),
                   fontWeight: 900,
                   textTransform: 'uppercase',
+                  color: 'hsl(120, 60%, 50%)',
                 }}
               >
                   <span style={{ boxShadow: '' }} href={node.fields.slug}>
